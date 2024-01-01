@@ -82,3 +82,4 @@ spec:
                 - name: SLACK_TEXT
                   value: 'Successfully promoted {{workflow.parameters.APP_NAME}}!'
             depends: wait
+
